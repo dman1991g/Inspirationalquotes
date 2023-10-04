@@ -26,7 +26,10 @@ const quotes = [
   {
     quote: "The only true wisdom is in knowing you know nothing.",
     author: "— Socrates"
-  }
+  },
+  {
+    quote: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    author: "- Thomas Edison"
 ]
 
 button.addEventListener("click", function() {
